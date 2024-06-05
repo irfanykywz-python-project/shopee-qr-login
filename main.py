@@ -1,7 +1,6 @@
 import time
 import requests
 import qrcode
-from qrcode.image.pure import PyPNGImage
 
 def generateQR():
     headers = {
